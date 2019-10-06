@@ -3,5 +3,5 @@
 Set of recipes as given my grandma
 
 - Pizzas (TODO)
-- Sasdsdaces (TODO)
+- Sauces (TODO)
 - Spreads (TODO)
